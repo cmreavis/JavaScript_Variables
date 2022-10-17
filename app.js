@@ -4,14 +4,13 @@ console.log(
 );
 
 // Exercise 1
-const firstName = "";
+const firstName = "Colin";
 let lastName;
 var age;
 // Exercise 2
-firstName = "Colin";
+console.log(firstName);
 lastName = "Reavis";
 age = 25;
-console.log(firstName);
 // Exercise 3
 let language = "JavaScript";
 let createdYear = 2005;
